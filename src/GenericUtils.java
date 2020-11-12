@@ -1,5 +1,9 @@
 
 public class GenericUtils {
+
+	// Comentario da aula de DWBE
+	// Comentario da aula de DWBE
+	// Comentario da aula de DWBE
 	                                                     // $1 $2   $3
 	public static String returnTelFormat(String value) { // 12 3456 7890 (10 numeoros)
 		if(value.length() == 10 && isNumeric(value)) {
